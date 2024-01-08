@@ -22,7 +22,7 @@
     text-align: center;
   }
 }
-.container{
+.container {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -44,7 +44,7 @@
   list-style: none;
 }
 .input,
-.btn{
+.btn {
   outline: none;
 }
 .btn {
